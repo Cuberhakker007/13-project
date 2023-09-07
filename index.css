@@ -69,7 +69,7 @@ ol{
   background: linear-gradient(60deg, #ffffff9f, #f37055, #ef4e7b, #a166ab, #5073b8, #15170f, #07b39b, #6fba82);
   border-radius: calc(2 * var(--borderWidth));
   z-index: -1;
-  animation: animatedgradient 25s linear alternate infinite;
+  animation: animatedgradient 55s linear alternate infinite;
   background-size: 300% 300%;
 }
 
