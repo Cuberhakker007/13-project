@@ -1,13 +1,13 @@
 [
   [true,"blue","+998 97 705 43 48","amfnig.ru@gmail.com","https://www.instagram.com/akvarium_olami/","https://www.threads.net/@akvarium_olami","#","https://t.me/undefinedz1"],
   [{
-    url: "https://weather2-wine.vercel.app/",
-    name: "Weather App",
-    img: ""
+    "url": "https://weather2-wine.vercel.app/",
+    "name": "Weather App",
+    "img": ""
   },{
-    url: "https://uniquefoods.vercel.app/",
-    name: "Foody city",
-    img:""
+    "url": "https://uniquefoods.vercel.app/",
+    "name": "Foody city",
+    "img":""
   },{
      url: "https://cuberdad.vercel.app/",
     name: "Figma",
