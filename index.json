@@ -3,10 +3,10 @@
   {
    "name": [
     {
-     "des":"Mening klaviaturada yozish tezligim 30sekund ichida 100ta so'zdan",
-     "deg":"65"
+     "des":"Mening klaviaturada yozish tezligim 30 sekund ichida 100ta so'zdan",
+     "deg":"60"
     },{
-     "des":"React Native bo'yicha test sinovlarida 50 savolda tezligim 10 daqiqada",
+     "des":"React Native bo'yicha test sinovlarida 50 savolda to'gri javoblar 10 daqiqada",
      "deg":"72"
     },{
      "des":"Mening ingliz tilini bilish darajam B1 darajada va foizlarda bu",
@@ -16,7 +16,7 @@
    "name": [{
     "url": "https://uniquefoods.vercel.app/",
     "Title": "Unique foods",
-    "des": "Unitilmas menularga ega bu web sitymizda juda ishtaxa ochar taomlar mavjuda amo hozirda bu web sity yopiq, chunki hali web serveri mavjud emas.",
+    "des": "Unitilmas menularga ega bu web sitymizda juda ishtaxa ochar taomlar mavjuda amo hozirda web sity yopiq.",
     "img": "https://raw.githubusercontent.com/Cuberhakker007/13-project/main/Web1.png"
    },{
     "url": "https://weather2-wine.vercel.app/",
